@@ -25,6 +25,7 @@
         <StackPanel x:Name="StackElements" Orientation="Horizontal">
             <Button x:Name="Explorerbtn"    Margin="5,5,5,5" Content="Explorer" Width="100"/>
             <Button x:Name="ConfigPanelBtn" Margin="5,5,5,5" Content="Control Panel" Width="100"/>
+			<Button x:Name="UndockBtn"      Margin="5,5,5,5" Content="UnDock" Width="100"/>
             <Button x:Name="CloseBtn"       Margin="5,5,5,5" Content="Exit" Width="100"/>
         
         </StackPanel>
